@@ -1,0 +1,23 @@
+/* 左栏撑满 */
+.fmzcZd {
+    padding-right: 20px;
+}
+
+/* 右栏隐藏 */
+.vW7mGd {
+  display: none;
+} 
+
+/* 编辑器撑满 */
+.a89Sje {
+  max-width: 100%;
+}
+
+/* 显示 工具栏 主栏 全部按钮 */
+.Wdqgzf > * {
+  display: flex;
+}
+
+/* Chrome 插件
+https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha
+*/
