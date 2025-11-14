@@ -4,7 +4,7 @@ https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleo
 
 /* 左栏撑满 */
 .fmzcZd {
-    padding-right: 20px;
+  padding-right: 20px;
 }
 
 /* 右栏隐藏 */
