@@ -3,3 +3,6 @@ blogger 编译页面 CSS 优化. 左栏撑满, 右栏隐藏, 编辑器撑满, �
 
 Chrome 插件 Stylebot    
 https://chromewebstore.google.com/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha
+
+演示视频 
+https://www.youtube.com/watch?v=_78NhfeEAhE 
