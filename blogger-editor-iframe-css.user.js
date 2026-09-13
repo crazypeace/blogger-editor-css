@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         给ZW3ZFc的iframe注入CSS
+// @name         Blogger的编辑器 所见即所得WYSIWYG 优化
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  向class为ZW3ZFc的iframe注入自定义样式
+// @description  Blogger的编辑器 所见即所得WYSIWYG 优化, 向class为ZW3ZFc的iframe注入自定义样式
 // @author       You
 // @match        https://www.blogger.com/blog/post/*
 // @grant        none
